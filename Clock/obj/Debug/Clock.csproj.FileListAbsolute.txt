@@ -1,0 +1,7 @@
+c:\users\allez\documents\visual studio 2013\Projects\Clock\Clock\bin\Debug\Clock.dll
+c:\users\allez\documents\visual studio 2013\Projects\Clock\Clock\bin\Debug\Clock.pdb
+c:\users\allez\documents\visual studio 2013\Projects\Clock\Clock\obj\Debug\Clock.UCClock.resources
+c:\users\allez\documents\visual studio 2013\Projects\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
+c:\users\allez\documents\visual studio 2013\Projects\Clock\Clock\obj\Debug\Clock.dll
+c:\users\allez\documents\visual studio 2013\Projects\Clock\Clock\obj\Debug\Clock.pdb
+C:\Users\Allez\documents\visual studio 2013\Projects\Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
